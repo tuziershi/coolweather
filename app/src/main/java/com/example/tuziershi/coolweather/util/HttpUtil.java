@@ -36,13 +36,13 @@ public class HttpUtil{
                    }
                    if(listener!=null)
                    {
-                       listener.onfinish(response.toString());
+                       listener.onFinish(response.toString());
                    }
                }catch (Exception e)
                {
                    if(listener!=null)
                    {
-                       listener.onerror(e);
+                       listener.onError(e);
                    }
                }finally{
                    if(connection!=null)
