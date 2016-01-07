@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/WeatherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39453718">
-              <caret line="131" column="46" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4917#5082#0" expanded="true" />
@@ -75,20 +75,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/ChooseAreaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.7693475">
+              <caret line="231" column="36" selection-start-line="231" selection-start-column="36" selection-end-line="231" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1510#1518#0" expanded="true" />
-                <element signature="e#2632#3578#0" expanded="true" />
-                <element signature="e#3577#3578#0" expanded="true" />
-                <element signature="e#6401#6955#0" expanded="true" />
-                <element signature="e#6954#6955#0" expanded="true" />
-                <element signature="e#7090#7395#0" expanded="true" />
-                <element signature="e#7394#7395#0" expanded="true" />
+                <element signature="e#2789#3735#0" expanded="true" />
+                <element signature="e#3734#3735#0" expanded="true" />
+                <element signature="e#6558#7112#0" expanded="true" />
+                <element signature="e#7111#7112#0" expanded="true" />
+                <element signature="e#7247#7552#0" expanded="true" />
+                <element signature="e#7551#7552#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1715,8 +1715,8 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/util/HttpUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/util/Utility.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/ChooseAreaActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/ChooseAreaActivity.java" />
       </list>
     </option>
   </component>
@@ -1731,8 +1731,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1019" />
-    <option name="y" value="192" />
+    <option name="x" value="650" />
+    <option name="y" value="193" />
     <option name="width" value="1020" />
     <option name="height" value="846" />
   </component>
@@ -2304,7 +2304,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1019" y="192" width="1020" height="846" extended-state="0" />
+    <frame x="650" y="193" width="1020" height="846" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2510,33 +2510,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/ChooseAreaActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1510#1518#0" expanded="true" />
-            <element signature="e#2632#3578#0" expanded="true" />
-            <element signature="e#3577#3578#0" expanded="true" />
-            <element signature="e#6401#6955#0" expanded="true" />
-            <element signature="e#6954#6955#0" expanded="true" />
-            <element signature="e#7090#7395#0" expanded="true" />
-            <element signature="e#7394#7395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/WeatherActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39453718">
-          <caret line="131" column="46" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4917#5082#0" expanded="true" />
             <element signature="e#5081#5082#0" expanded="true" />
             <element signature="e#5200#5379#0" expanded="true" />
             <element signature="e#5378#5379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tuziershi/coolweather/activity/ChooseAreaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7693475">
+          <caret line="231" column="36" selection-start-line="231" selection-start-column="36" selection-end-line="231" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1510#1518#0" expanded="true" />
+            <element signature="e#2789#3735#0" expanded="true" />
+            <element signature="e#3734#3735#0" expanded="true" />
+            <element signature="e#6558#7112#0" expanded="true" />
+            <element signature="e#7111#7112#0" expanded="true" />
+            <element signature="e#7247#7552#0" expanded="true" />
+            <element signature="e#7551#7552#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -48,13 +48,15 @@ public class ChooseAreaActivity extends Activity {
     private Province selectedProvince;
     private City selectedCity;
     private int currentLevel;
+    private boolean isFromWeatherActivity;
 
     @Override
     public void onCreateNavigateUpTaskStack(TaskStackBuilder builder) {
         super.onCreateNavigateUpTaskStack(builder);
+        isFromWeatherActivity=getIntent().getBooleanExtra("from_weather_activity",false);
         SharedPreferences prefs = PreferenceManager.
                 getDefaultSharedPreferences(this);
-        if (prefs.getBoolean("city_selected", false)) {
+        if (prefs.getBoolean("city_selected", false)&&!isFromWeatherActivity) {
             Intent intent = new Intent(this, WeatherActivity.class);
             startActivity(intent);
             finish();
@@ -226,6 +228,12 @@ public class ChooseAreaActivity extends Activity {
         {
             queryProvinces();
         }
-        else{finish();}
+        else{
+            if (isFromWeatherActivity) {
+            Intent intent = new Intent(this, WeatherActivity.class);
+            startActivity(intent);
+        }
+            finish();
+        }
     }
 }
